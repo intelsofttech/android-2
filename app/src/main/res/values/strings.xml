@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AphaOne</string>
+    <string name="title_activity_main">AphaOne</string>
+    <string name="package_name">com.ozci.alphaone</string>
+    <string name="custom_url_scheme">com.ozci.alphaone</string>
+</resources>
